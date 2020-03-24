@@ -9,7 +9,7 @@
 
 **Enlace a ejercicio de c:** [Calculo de expresion de infijo a posfija](https://onlinegdb.com/Sy35LWwI8)
 
-**Enlace a ejercicio de python:** [Programa en python sobre cafetera y sus funciones](https://onlinegdb.com/ry_fD-wIL)
+**Enlace a ejercicio de python:** [Programa en python sobre cafetera y sus funciones](https://onlinegdb.com/rJrOwWv88)
 
 
 
