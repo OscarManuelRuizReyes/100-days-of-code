@@ -1,4 +1,4 @@
-# 100 Days Of Code - Log
+# 100 Days Of Code - Bitacora
 
 ### Dia 1: 23 de febrero, 2020
 ##### Estudio de python y c
