@@ -1,6 +1,6 @@
 # 100 Days Of Code - Bitacora
 
-### Dia 1: 23 de febrero, 2020
+### Dia 1: 23 de marzo, 2020
 ##### Estudio de python y c
 
 **Lo aprendido**: Repase mas sobre el uso de funciones y ciclos en python y la implementacion de pilas en C por medio del ejercicio de convertir de un expresion infija a posfija
