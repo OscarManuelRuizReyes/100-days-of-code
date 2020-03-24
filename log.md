@@ -8,6 +8,7 @@
 **Dificultades:** Me tarde bastante en poder arreglar un problema en el cual me generaba codigo basura al imprimir mis arreglos ya que no me di cuenta que no inicialice todos los elementos de esos arreglos a 0.
 
 **Enlace a ejercicio de c:** [Calculo de expresion de infijo a posfija](https://onlinegdb.com/Sy35LWwI8)
+
 **Enlace a ejercicio de python:** [Programa en python sobre cafetera y sus funciones](https://onlinegdb.com/ry_fD-wIL)
 
 
