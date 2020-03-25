@@ -18,7 +18,7 @@
 
 **Dificultades:** Este tema aunque es facil de entender en concepto al momento de hacer la implementacion es algo confuso, a razon de esto pase la mayoria de mi tiempo de hoy tratando de aplicar la teoria en algo practico, realice varios ejercicios pero el ejercicio que me tarde mas en realizar y el que mostrare como prueba de mi avance es el que verificar si los valores ingresados son de un triangulo rectangulo. y si lo es, sacar su area.
 
-**Enlace a ejercicio de Python:** [Ejercicio con clases enfocado a triangulos rectangulos](https://onlinegdb.com/rJv_pvOUL)
+**Enlace a ejercicio de Python:** [Ejercicio con clases enfocado a triangulos rectangulos](https://onlinegdb.com/r1dI1_d8L)
 
 
 
