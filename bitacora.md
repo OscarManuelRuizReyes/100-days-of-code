@@ -20,6 +20,14 @@
 
 **Enlace a ejercicio de Python:** [Ejercicio con clases enfocado a triangulos rectangulos](https://onlinegdb.com/r1dI1_d8L)
 
+### Dia 3: 25 de marzo, 2020
+##### Python: Aplicacion de las clases a un problema en particular
+
+### Dia 4: 26 de marzo, 2020
+##### C++: Estudio de listas enlazadas
+
+###Dia 5: 27 de marzo, 2020
+#### Javascript: Estudio de los fundamentos del lenguaje 
 
 
 
