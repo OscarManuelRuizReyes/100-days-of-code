@@ -26,7 +26,7 @@
 ### Dia 4: 26 de marzo, 2020
 ##### C++: Estudio de listas enlazadas
 
-###Dia 5: 27 de marzo, 2020
+### Dia 5: 27 de marzo, 2020
 #### Javascript: Estudio de los fundamentos del lenguaje 
 
 
