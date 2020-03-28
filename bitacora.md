@@ -22,9 +22,15 @@
 
 ### Dia 3: 25 de marzo, 2020
 ##### Python: Aplicacion de las clases a un problema en particular
+**Resumen del dia** Se Aplico los conceptos aprendidos sobre programacion orientada a objetos a un ejercicio previamente hecho en el cual se aprovecho la estructura de las clases para poder optimizar este programa
+
+**Enlace a ejercicio de Python:**[Ejercicio de la cafetera utilizando una clase](https://onlinegdb.com/r1w4sHpI8)
 
 ### Dia 4: 26 de marzo, 2020
 ##### C++: Estudio de listas enlazadas
+**Resumen del dia**Al finalizar este programa pude aprender como poder manejar el funcionamiento de los listas enlazadas y por ende tambien el como se puede hacer recorrido de nodos por medio de apuntadores, es bastante importante,lo cual me permitira comprender otras estructuras de datos mas complejas.
+**Enlace a ejercicio en c++:**[Lista enlazada](https://onlinegdb.com/r1gn9nH68I)
+
 
 ### Dia 5: 27 de marzo, 2020
 #### Javascript: Estudio de los fundamentos del lenguaje 
