@@ -29,6 +29,10 @@
 ### Dia 5: 27 de marzo, 2020
 #### Javascript: Estudio de los fundamentos del lenguaje 
 
+### Dia 6: 27 de marzo, 2020
+#### Python: Analisis de las diferentes estructuras de datos
+
+**Resumen de lo que aprendi**: Muchas de las estructuras que vi hoy ya las habia implementado de una u otra forma en C++ por lo que la estructura y la forma en la que funcionan en python lo aprendi muy rapidamente, algo que me esta tomando mas tiempo es tratar de optimizar el uso de memoria para que pueda aprovechar al maximo las ventajas de cada estructura, me enfoque principalmente a las pilas, A continuacion dejo un ejercicio que realice en el cual analice cual es la estructura basica de una pila [Esttuctura Pila](https://onlinegdb.com/ry-xu4aU8)
 
 
 
