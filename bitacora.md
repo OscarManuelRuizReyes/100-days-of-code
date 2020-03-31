@@ -44,7 +44,7 @@
 ### Dia 7: 29 de marzo, 2020
 #### Python: Estudio del manejo de las cadenas y diferentes formas de mostrar la informacion
 
-**Resumen de lo que aprendi**: En este dia me enfoque en las diferentes formas de darle formato a mis valores de salida o output,realice un proyecto interesante en el cual dependiendo de un numero dentro de un rango, se hara la impresion de un animal y una frase [Eejrcicio animales](https://onlinegdb.com/HyIFVzev8)
+**Resumen de lo que aprendi**: En este dia me enfoque en las diferentes formas de darle formato a mis valores de salida o output,realice un proyecto interesante en el cual dependiendo de un numero dentro de un rango, se hara la impresion de un animal y una frase [Ejercicio animales](https://onlinegdb.com/HyIFVzev8)
 
 ### Dia 8: 30 de marzo, 2020
 #### SQL: Estudio de las bases de SQL con SQLite
