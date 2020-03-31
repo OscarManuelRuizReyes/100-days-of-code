@@ -41,5 +41,12 @@
 
 **Resumen de lo que aprendi**: Muchas de las estructuras que vi hoy ya las habia implementado de una u otra forma en C++ por lo que la estructura y la forma en la que funcionan en python lo aprendi muy rapidamente, algo que me esta tomando mas tiempo es tratar de optimizar el uso de memoria para que pueda aprovechar al maximo las ventajas de cada estructura, me enfoque principalmente a las pilas, A continuacion dejo un ejercicio que realice en el cual analice cual es la estructura basica de una pila [Esttuctura Pila](https://onlinegdb.com/ry-xu4aU8)
 
+### Dia 7: 29 de marzo, 2020
+#### Python: Estudio del manejo de las cadenas y diferentes formas de mostrar la informacion
 
+**Resumen de lo que aprendi**: En este dia me enfoque en las diferentes formas de darle formato a mis valores de salida o output,realice un proyecto interesante en el cual dependiendo de un numero dentro de un rango, se hara la impresion de un animal y una frase [Eejrcicio animales](https://onlinegdb.com/HyIFVzev8)
 
+### Dia 8: 30 de marzo, 2020
+#### SQL: Estudio de las bases de SQL con SQLite
+
+**Resumen de lo que aprendi**: Hoy estudie las bases que se necesitan para poder hacer el manejo de datos de una BD relacional, en el cual aprendi comandos basicos para crear una tabla y tambien borrar,actualizar o crear registros dentro de ella usando un RDBMS llamado SQLite [Primer programa utilizando lo que aprendi](https://onlinegdb.com/Syr0MMxPU)
