@@ -77,37 +77,13 @@
 
 
 **Resumen de lo que aprendi**: En estos dias aprendere de forma mas detallada los diferentes tipos de estructruas de datos, anteriormente habia estudiado las pilas, por lo que seguire ahora con las colas (simples,doblemente enlazadas y circulares despues) En donde tengo que tener en cuenta conceptos como encolar: agrega un nuevo elemento al final de la cola  y desencolar: elimina el primero de la cola y lo devuelve.Ademas de funciones que me ayuden a verificar si la cola esta vacia,llena o no.[Cola Simple](https://onlinegdb.com/SJHDgac_U)
-### Dia 14: 5 de mayo, 2020
-#### Python: 
 
-**Resumen de lo que aprendi**: [Programa con metodos magicos]https://onlinegdb.com/HJKxo3cuI
+### Dia 14: 5 de mayo, 2020
+#### Python: Estudio de estructuras de datos, Colas dobles 
+
+**Resumen de lo que aprendi**: Hoy aprendi como utilizar la estructura de datos "cola doble" la cual tiene 2 apuntadores, uno enfrente y otro al final los cuales permiten moverse por los elementos de la cola, es un poco mas complejor que una cola simple pero el entender el concepto de como funcionan me ayudo a realizar el siguiente programa[Programa de cola doble](https://onlinegdb.com/SycJ46cO8)
 
 ### Dia 15: 6 de mayo, 2020
-#### Python: 
+#### Python: Estudio de estructuras de datos, Cola doble usando lista enlazada
 
-**Resumen de lo que aprendi**: [Programa con metodos magicos]https://onlinegdb.com/HJKxo3cuI
-
-### Dia 16: 7 de mayo, 2020
-#### Python: 
-
-**Resumen de lo que aprendi**: [Programa con metodos magicos]https://onlinegdb.com/HJKxo3cuI
-
-### Dia 17: 8 de mayo, 2020
-#### Python: 
-
-**Resumen de lo que aprendi**: [Programa con metodos magicos]https://onlinegdb.com/HJKxo3cuI
-
-### Dia 18: 9 de mayo, 2020
-#### Python: 
-
-**Resumen de lo que aprendi**: [Programa con metodos magicos]https://onlinegdb.com/HJKxo3cuI
-
-### Dia 19: 10 de mayo, 2020
-#### Python: 
-
-**Resumen de lo que aprendi**: [Programa con metodos magicos]https://onlinegdb.com/HJKxo3cuI
-
-### Dia 20: 11 de mayo, 2020
-#### Python: 
-
-**Resumen de lo que aprendi**: [Programa con metodos magicos]https://onlinegdb.com/HJKxo3cuI
+**Resumen de lo que aprendi**: Despues de usar listas enlazadas en c++ y haber visto la implementacion de colas dobles en python con un arreglo decidi unir esos 2 conceptos para realizar una cola doble con listas enlazadas, fue mas complejo y tardado de lo que esperaba pero aprende mucho sobre como gestionar y almacenar los elementos dentro de la lista enlazada al momento de estar encolando y desencolando, fue un desafio muy divertido.[Cola doble con lista enlazada](https://onlinegdb.com/rkqWtaqu8)
