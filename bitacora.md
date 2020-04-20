@@ -107,7 +107,7 @@
 
 **Resumen de lo que aprendi**: [Programa con metodos magicos]https://onlinegdb.com/HJKxo3cuI
 
-### Dia 20: 21 de mayo, 2020
+### Dia 20: 11 de mayo, 2020
 #### Python: 
 
 **Resumen de lo que aprendi**: [Programa con metodos magicos]https://onlinegdb.com/HJKxo3cuI
