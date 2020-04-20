@@ -73,10 +73,10 @@
 **Resumen de lo que aprendi**: Hoy decidi enfocarme en comprender de mejor forma las clases, por lo cual es importante conocer los diferentes metodos magicos o dunders (doble underscore) los cuales tienen una funcionalidad muy peculiar en como crear,moldear y adecuar el comportamiento de los objetos en una funcion, principalmente estudie los que tienen un enfoque a operaciones aritmeticas como __add__.[Programa con metodos magicos]https://onlinegdb.com/HJKxo3cuI
 
 ### Dia 13: 4 de mayo, 2020
-#### Python: 
+#### Python: Estudio de estructuras de datos, Colas simples 
 
-**Resumen de lo que aprendi**: [Programa con metodos magicos]https://onlinegdb.com/HJKxo3cuI
 
+**Resumen de lo que aprendi**: En estos dias aprendere de forma mas detallada los diferentes tipos de estructruas de datos, anteriormente habia estudiado las pilas, por lo que seguire ahora con las colas (simples,doblemente enlazadas y circulares despues) En donde tengo que tener en cuenta conceptos como encolar: agrega un nuevo elemento al final de la cola  y desencolar: elimina el primero de la cola y lo devuelve.Ademas de funciones que me ayuden a verificar si la cola esta vacia,llena o no.[Cola Simple](https://onlinegdb.com/SJHDgac_U)
 ### Dia 14: 5 de mayo, 2020
 #### Python: 
 
