@@ -66,3 +66,48 @@
 #### Python: Analisis mas avanzado de decoradores
 
 **Resumen de lo que aprendi**: Hoy decidi enfocarme en comprender de mejor forma las clases, por lo cual es importante conocer los diferentes metodos magicos o dunders (doble underscore) los cuales tienen una funcionalidad muy peculiar en como crear,moldear y adecuar el comportamiento de los objetos en una funcion, principalmente estudie los que tienen un enfoque a operaciones aritmeticas como __add__.[Programa con metodos magicos]https://onlinegdb.com/HJKxo3cuI
+
+### Dia 12: 3 de mayo, 2020
+#### Python: Metodos magicos
+
+**Resumen de lo que aprendi**: Hoy decidi enfocarme en comprender de mejor forma las clases, por lo cual es importante conocer los diferentes metodos magicos o dunders (doble underscore) los cuales tienen una funcionalidad muy peculiar en como crear,moldear y adecuar el comportamiento de los objetos en una funcion, principalmente estudie los que tienen un enfoque a operaciones aritmeticas como __add__.[Programa con metodos magicos]https://onlinegdb.com/HJKxo3cuI
+
+### Dia 13: 4 de mayo, 2020
+#### Python: 
+
+**Resumen de lo que aprendi**: [Programa con metodos magicos]https://onlinegdb.com/HJKxo3cuI
+
+### Dia 14: 5 de mayo, 2020
+#### Python: 
+
+**Resumen de lo que aprendi**: [Programa con metodos magicos]https://onlinegdb.com/HJKxo3cuI
+
+### Dia 15: 6 de mayo, 2020
+#### Python: 
+
+**Resumen de lo que aprendi**: [Programa con metodos magicos]https://onlinegdb.com/HJKxo3cuI
+
+### Dia 16: 7 de mayo, 2020
+#### Python: 
+
+**Resumen de lo que aprendi**: [Programa con metodos magicos]https://onlinegdb.com/HJKxo3cuI
+
+### Dia 17: 8 de mayo, 2020
+#### Python: 
+
+**Resumen de lo que aprendi**: [Programa con metodos magicos]https://onlinegdb.com/HJKxo3cuI
+
+### Dia 18: 9 de mayo, 2020
+#### Python: 
+
+**Resumen de lo que aprendi**: [Programa con metodos magicos]https://onlinegdb.com/HJKxo3cuI
+
+### Dia 19: 10 de mayo, 2020
+#### Python: 
+
+**Resumen de lo que aprendi**: [Programa con metodos magicos]https://onlinegdb.com/HJKxo3cuI
+
+### Dia 20: 21 de mayo, 2020
+#### Python: 
+
+**Resumen de lo que aprendi**: [Programa con metodos magicos]https://onlinegdb.com/HJKxo3cuI
