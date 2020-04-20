@@ -61,3 +61,8 @@
 #### Python: Analisis mas avanzado de decoradores
 
 **Resumen de lo que aprendi**: El dia anterior estudio como era el comportamiento y funcion de un decorador, hoy aprendi como poder pasar como parametro no solo la funcion que obtendra como entrada, sino que tambien algun otro parametro definido en la funcion del decorador ya que un decorador también puede recibir parámetros, de manera que pueda modificar su funcionalidad de acuerdo a algún valor diferente para cada decoración.[Codigo de decorador con parametros](https://onlinegdb.com/SkcgLn5dU)
+
+### Dia 10: 1 de mayo, 2020
+#### Python: Analisis mas avanzado de decoradores
+
+**Resumen de lo que aprendi**: Hoy decidi enfocarme en comprender de mejor forma las clases, por lo cual es importante conocer los diferentes metodos magicos o dunders (doble underscore) los cuales tienen una funcionalidad muy peculiar en como crear,moldear y adecuar el comportamiento de los objetos en una funcion, principalmente estudie los que tienen un enfoque a operaciones aritmeticas como __add__.[Programa con metodos magicos]https://onlinegdb.com/HJKxo3cuI
