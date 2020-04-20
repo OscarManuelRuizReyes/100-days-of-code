@@ -56,3 +56,8 @@
 #### Python: uso de decoradores
 
 **Resumen de lo que aprendi**: Aprendi un concepto nuevo muy aplicado en python llamado Decorador el cual alteran de manera dinámica la funcionalidad de una función, método o clase sin tener que hacer subclases o cambiar el código fuente de la clase decorada.Para poder entender su funcionamiento realice un programa, el cual me hizo darme cuenta que los decoradores son en sí mismos funciones, que toman como argumento una función y retornan otra función. [Codigo](https://onlinegdb.com/HygRMen9uU)
+
+### Dia 10: 1 de mayo, 2020
+#### Python: Analisis mas avanzado de decoradores
+
+**Resumen de lo que aprendi**: El dia anterior estudio como era el comportamiento y funcion de un decorador, hoy aprendi como poder pasar como parametro no solo la funcion que obtendra como entrada, sino que tambien algun otro parametro definido en la funcion del decorador ya que un decorador también puede recibir parámetros, de manera que pueda modificar su funcionalidad de acuerdo a algún valor diferente para cada decoración.[Codigo de decorador con parametros](https://onlinegdb.com/SkcgLn5dU)
