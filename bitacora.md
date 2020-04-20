@@ -52,7 +52,7 @@
 **Resumen de lo que aprendi**: Hoy estudie las bases que se necesitan para poder hacer el manejo de datos de una BD relacional, en el cual aprendi comandos basicos para crear una tabla y tambien borrar,actualizar o crear registros dentro de ella usando un RDBMS llamado SQLite [Primer programa utilizando lo que aprendi](https://onlinegdb.com/Syr0MMxPU)
 
 
-### Dia 8: 30 de marzo, 2020
+### Dia 9: 31 de marzo, 2020
 #### Python: uso de decoradores
 
 **Resumen de lo que aprendi**: Aprendi un concepto nuevo muy aplicado en python llamado Decorador el cual alteran de manera dinámica la funcionalidad de una función, método o clase sin tener que hacer subclases o cambiar el código fuente de la clase decorada.Para poder entender su funcionamiento realice un programa, el cual me hizo darme cuenta que los decoradores son en sí mismos funciones, que toman como argumento una función y retornan otra función. [Codigo](https://onlinegdb.com/HygRMen9uU)
